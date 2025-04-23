@@ -12,7 +12,7 @@
 
 3. **Solana/src/__** => Yeild Contract with 10 levels referral system, Daily Rewards, Lotto Raffle, Purchase through Radium, OTC and more.
 
-**NOTE! Only the snippets of the actual code where provided to prevent гnauthorized replication, the actual codebase is Private**
+**NOTE! Only the snippets of the actual code where provided to prevent unauthorized replication, the actual codebase is Private**
 
 ![alt text](image.png)
 
